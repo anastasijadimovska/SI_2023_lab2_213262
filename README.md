@@ -2,7 +2,7 @@
 ## Анастасија Димовска, 213262
 
 ### Control Flow Graph
-![CFG] (images/cfg.png)
+![CFG](images/cfg.png)
 
 ### Цикломатска комплексност
 Цикломатската комплексност е 11. Овој резултат го добив според формулата P + 1, така што P е бројот на предикатни јазли што изнесува 10 и додадов + 1. 
@@ -18,7 +18,7 @@ mail кој не содржи @ и . во него. Големината на л
 4. Има username и mail, кои што не се еднакви. Големината на лозинката е поголема од 8, не содржи дел (или цел) username во неа и има празно место.
 5. username е null, големината на лозинката е поголема од 8 и не содржи специјални знаци во неа.
 
-![EveryBranch] (images/EveryBranch.png)
+![EveryBranch](images/EveryBranch.png)
 
 ### Multiple Condition
 
@@ -28,7 +28,7 @@ Multiple condition методата ни служи за евалуација н
 3. F || F || T каде што user и лозинката нема да имаат вредност null, а мејлот ќе има вредност null
 4. F || F || F каде што ни user ни лозинката ни мејлот нема да имаат вредност null
 
-![MultipleCondition] (images/MultipleCondtition.png)
+![MultipleCondition](images/MultipleCondtition.png)
 
 ### Unit tests
 
